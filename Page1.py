@@ -45,5 +45,4 @@ btn1_first_window.place(x=220, y=170)
 
 first_window.mainloop()
 
-def printing():
-    print("Commit")
+
